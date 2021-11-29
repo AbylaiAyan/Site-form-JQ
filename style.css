@@ -1,0 +1,368 @@
+.upperSide {
+    background-color: #1E90FF	;
+    height: 458px;
+    color: #FFFFFF;
+    font-family: "Poppins" sans-serif;
+    font-style: normal;
+}
+
+.yourLogo {
+  position: absolute;
+  width: 100px;
+  height: 30px;
+  left: 42px;
+  top: 31px;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+.textFigma__title-text {
+  position: absolute;
+  width: 157px;
+  height: 51px;
+  left: 73px;
+  top: 150px;
+  font-weight: 600;
+  font-size: 34px;
+  line-height: 51px;
+}
+
+.textFigma__title-next {
+  position: absolute;
+  width: 396px;
+  height: 36px;
+  left: 73px;
+  top: 201px;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 36px;
+}
+
+.textFigma__parag {
+  position: absolute;
+  width: 311px;
+  height: 115px;
+  left: 75px;
+  top: 259px;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 19.5px;
+}
+
+.photo-raketa {
+    position: absolute;
+    left: 380px;
+    top: 25px;
+}
+
+/* 79 118 */
+/* 2 section begins here */
+.lowerSide {
+  position: absolute;
+  width: 321px;
+  height: 442px;
+  left: 73px;
+  /* top: 512px; */
+  font-family: "Poppins" sans-serif;
+  font-style: normal;
+}
+
+.forLoginAs {
+  position: absolute;
+  width: 66px;
+  height: 24px;
+  top: 54px;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  color: #000000;
+}
+
+.sectionAcc1 {
+  position: absolute;
+  width: 145px;
+  height: 164px;
+  top: 104px;
+  background: #EFF8FF;
+  border-radius: 9px;
+}
+
+.sectionAcc1__photo {
+  position: absolute;
+  width: 76px;
+  height: 76px;
+  left: 32px;
+  top: 24px;
+}
+
+.sectionAcc2__photo {
+  position: absolute;
+  width: 76px;
+  height: 76px;
+  left: 32px;
+  top: 24px;
+}
+
+.sectionAcc2 {
+  position: absolute;
+  width: 145px;
+  height: 164px;
+  left: 176px;
+  top: 104px;
+  background: #EFF8FF;
+  border-radius: 9px;
+}
+
+
+
+/* 3 section form begins here */
+.formSignIn {
+  position: absolute;
+  width: 539px;
+  height: 741px;
+  left: 883px;
+  top: 79px;
+  bottom: 80px;
+  background: #FFFFFF;
+  box-shadow: 0px 4px 35px rgba(0, 0, 0, 0.08);
+  border-radius: 40px;
+  font-family: "Poppins" sans-serif;
+  font-style: normal;
+}
+
+.formSignIn__welcome-text {
+  position: absolute;
+  width: 201px;
+  height: 32px;
+  left: 44px;
+  top: 44px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 21px;
+  line-height: 31px;
+}
+
+#fontSizeToUpperCase {
+  color:  #1E90FF;
+  text-transform: uppercase;
+}
+
+.formSignIn__title {
+  position: absolute;
+  width: 182px;
+  height: 83px;
+  left: 44px;
+  top: 77px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 55px;
+  line-height: 82px;
+}
+
+.formSignIn__linkToSignUp {
+  position: absolute;
+width: 85px;
+height: 40px;
+left: 410px;
+top: 44px;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 19px;
+color: #8D8D8D;
+}
+
+.linkd {
+  text-decoration: none;
+}
+
+.formSignIn__typesOfSign {
+  position: absolute;
+  width: 451px;
+  height: 56px;
+}
+
+.withGoogle {
+  position: absolute;
+  width: 298px;
+  height: 55px;
+  left: 44px;
+  top: 203px;
+  background: #E9F1FF;
+  border-radius: 9px;
+  text-align: center;
+  padding: 13px;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.withApple {
+  position: absolute;
+  width: 60px;
+  height: 55px;
+  left: 435px;
+  top: 203px;
+  background: #F6F6F6;
+  border-radius: 9px;
+  text-align: center;
+  padding-top: 13px;
+}
+
+.withFacebook {
+  position: absolute;
+  width: 60px;
+  height: 55px;
+  left: 362px;
+  top: 203px;
+  background: #F7F7F7;
+  border-radius: 9px;
+  text-align: center;
+  padding-top: 13px;
+}
+
+
+.firstIn {
+  position: absolute;
+  width: 451px;
+  height: 92px;
+  left: 44px;
+  top: 310px;
+}
+
+
+.labelText {
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+
+.UserNameandEmAdd {
+  width: 451px;
+  height: 57px;
+  margin-top: 13px;
+  background: #FFFFFF;
+  border: 1px solid #4285F4;
+  box-sizing: border-box;
+  border-radius: 9px;
+  padding-left: 25px;
+}
+
+.secondIn {
+  position: absolute;
+  width: 451px;
+  height: 92px;
+  left: 44px;
+  top: 440px;
+}
+
+.userPassword {
+  width: 451px;
+  height: 57px;
+  margin-top: 13px;
+  background: #FFFFFF;
+  border: 1px solid #ADADAD;
+  box-sizing: border-box;
+  border-radius: 9px;
+  padding-left: 25px;
+}
+
+/* забыл пароль */
+#forgotPasLink {
+  margin-left: 353px;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 19px;
+  color: #4285F4;
+}
+
+/* Кнопка */
+#formSignIn__button {
+  position: absolute;
+  width: 451px;
+  height: 54px;
+  left: 44px;
+  top: 608px;
+  color:#FFFFFF;
+  background: #0089ED;
+  box-shadow: 0px 4px 19px rgba(119, 147, 65, 0.3);
+  border-radius: 10px;
+}
+
+.tohide{
+    display:none;
+}
+.validError{
+    color:   red;
+    font-size:17px;
+    position: absolute;
+    margin-left: 47%;
+}
+
+
+/* ================================================================= */
+/* for mobile phones */
+@media (max-width:600px) {
+
+    body {
+      background-color: #1E90FF	;
+      height: 100vh;
+    }
+
+
+    .upperSide {
+      background-color: #1E90FF	;
+      height: 900px;
+      color: #FFFFFF;
+      font-family: "Poppins" sans-serif;
+      font-style: normal;
+    }
+
+
+    .yourLogo {
+      position: absolute;
+      width: 100px;
+      height: 30px;
+      left: 42px;
+      top: 31px;
+      font-weight: 600;
+      font-size: 20px;
+      line-height: 30px;
+    }
+
+    .photo-raketa ,
+    .textFigma__title-text ,
+    .textFigma__title-next,
+    .textFigma__parag ,
+    .lowerSide ,
+    .forLoginAs ,
+    .sectionAcc1 ,
+    .sectionAcc1__photo ,
+    .sectionAcc2__photo ,
+    .sectionAcc2 {
+      display: none;
+    }
+
+
+  .formSignIn {
+    position: absolute;
+    width: 539px;
+    height: 741px;
+    left: 20px;
+    top: 79px;
+    bottom: 80px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 35px rgba(0, 0, 0, 0.08);
+    border-radius: 40px;
+    font-family: "Poppins" sans-serif;
+    font-style: normal;
+  }
+
+
+}
+
+
+.checkbox__input.error + .checkbox__label {
+    color: red;
+}
